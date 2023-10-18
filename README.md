@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Health Club Membership Management
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed Application link - https://gym-management-frontend-pi.vercel.app/
 
-## Available Scripts
+# Tech Stack:
+- Frontend - React
 
-In the project directory, you can run:
+- Backend - NodeJS
 
-### `npm start`
+- Database - MongoDB
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Cloud Deployment - AWS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Tools Used
 
-### `npm test`
+- Backend Deployment : AWS EC2 AutoScaling LoadBalance
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Version Control: Visual Studio Code, Git
 
-### `npm run build`
+Architecture Diagram:
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/91ad72ce-b1af-4a39-9bef-076c6887440b)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Use case Diagram:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/bb0df2b1-4204-4ecd-a9e7-81825db7c258)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ 
+Class Diagram:
 
-### `npm run eject`
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/65a8cc6f-965d-48a2-8641-313a299052b7)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+WireFrames:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Admin page Wireframe:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/31ed2cc0-027f-4ce5-92d3-c8e90ff70a5c)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Wireframe for Machine Logs:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/aa009461-205c-4f9e-a744-c0d7be855ec1)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Wireframe for CICO:
 
-### Analyzing the Bundle Size
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/0c3b3f66-d831-434f-b3ed-6624a5025bbd)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Wireframe for Homepage:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/6f8d6f48-6eb4-4099-9c6b-a6b5dbdfc1fa)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Wireframe for user page:
 
-### Deployment
+![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/75e8dae3-9467-4595-8bcc-7460b81c5335)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
