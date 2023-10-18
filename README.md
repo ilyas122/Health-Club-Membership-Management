@@ -58,45 +58,53 @@ Gym Usage Analytics Dashboard:
 
 
 Architecture Diagram:
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/91ad72ce-b1af-4a39-9bef-076c6887440b)
+
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/a8db0f43-383d-4d07-97c0-c17f6e6ebe6e)
 
 
-Use case Diagram:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/bb0df2b1-4204-4ecd-a9e7-81825db7c258)
+Use case Diag:
+
+[use case](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/151fe8a1-e9e6-42fb-bf05-683c2e7a5297)
 
 
  
 Class Diagram:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/65a8cc6f-965d-48a2-8641-313a299052b7)
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/78cb13cf-250e-4af3-b9aa-194e27bb165b)
+
 
 
 WireFrames:
 
 Admin page Wireframe:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/31ed2cc0-027f-4ce5-92d3-c8e90ff70a5c)
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/372b42a7-db76-4d1f-91de-c1716c42de22)
+
 
 
 Wireframe for Machine Logs:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/aa009461-205c-4f9e-a744-c0d7be855ec1)
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/6da9f335-4f10-4af8-83d2-768d8f2486cd)
+
 
 
 Wireframe for CICO:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/0c3b3f66-d831-434f-b3ed-6624a5025bbd)
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/8d5cc95c-90c7-40bc-8073-2adbc85819f9)
+
 
 
 Wireframe for Homepage:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/6f8d6f48-6eb4-4099-9c6b-a6b5dbdfc1fa)
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/ad867cc0-417a-448e-b7b1-d6ba760e39f2)
+
 
 
 Wireframe for user page:
 
-![image](https://github.com/gopinathsjsu/team-project-gciv/assets/47917247/75e8dae3-9467-4595-8bcc-7460b81c5335)
+![image](https://github.com/ilyas122/Health-Club-Membership-Management/assets/47917247/a78bb759-4115-4f6e-b587-66d860553d30)
+
 
 
 
